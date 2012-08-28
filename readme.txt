@@ -24,7 +24,7 @@ Also, the Geocache Stat Bar comes 200 pixels wide, so be sure you sidebar area i
 
 Original imagery used for the banner in the wordpress.org repository created by <a href="http://www.vectoropenstock.com" target="_blank">Vector Open Stock</a>.
 
-[youtube http://youtu.be/SMtetuq_sg8]
+http://youtu.be/SMtetuq_sg8
 
 == Installation ==
 
@@ -36,7 +36,7 @@ Original imagery used for the banner in the wordpress.org repository created by 
 
 = What is Geocaching? =
 
-[youtube http://youtu.be/SMtetuq_sg8]
+http://youtu.be/SMtetuq_sg8
 
 = How do I get my GUID =
 
