@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Geocache Stat Bar
-Plugin URI: http://www.think-press.com/widgets/widget-geocache-stat-bar
+Plugin URI: http://www.pixeljar.net/widgets/widget-geocache-stat-bar
 Description: Display your Geocache Stat Bar
 Author: Brandon Dove, Jeffrey Zinn
 Version: 0.9
-Author URI: http://www.think-press.com/
+Author URI: http://www.pixeljar.net/
 */
 
 function widget_geocache_stat_bar_init() {
